@@ -1,4 +1,4 @@
-# Mandelbrot_renderer
+# Mandelbrot renderer
 Mandelbrot set rendering engine. Written in rust (2018+)
 
 # What is a complex number?
@@ -15,4 +15,4 @@ My approach is pretty naive but I implement data parallelism using parallel iter
   * GPU processing: We can use libraries such as OpenCL to put the computational power of our algorithm on the GPU instead of the CPU.
 
 # What does it look like?
-
+![Mandelbrot_renderer](https://github.com/LLayta/Mandelbrot_renderer/blob/main/images/mandelbrot.png)
