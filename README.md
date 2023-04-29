@@ -13,3 +13,6 @@ My approach is pretty naive but I implement data parallelism using parallel iter
   * Symmetric drawing: The mandelbrot set rendering is actually symmetrical along the x-axis. So we can compute the top half of the set, and render the bottom half.
   * Algebraic simplification: In the naive algoritm approach we preform several operations, but with some algebraic simplification of the numbers we can simply reduce it.
   * GPU processing: We can use libraries such as OpenCL to put the computational power of our algorithm on the GPU instead of the CPU.
+
+# What does it look like?
+
